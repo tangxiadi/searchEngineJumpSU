@@ -1,13 +1,14 @@
 (function(){
 // ==UserScript==
-// @name           searchEngineJumpSU
+// @name           searchEngineJump 简化改进版
+// @author         NLF && ywzhaiqi
+// @contributor    ted423
+// @description    方便的在各个引擎之间跳转。可自定义搜索列表的 NLF 修改版。
 // @icon           data:image/png;base64,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
-// @author         tangxiadi
-// @contributor    ywzhaiqi
-// @description    方便的在各个引擎之间跳转，可自定义搜索列表。
 // @version        4.2.1.4
-// @namespace      https://github.com/tangxiadi/searchEngineJumpSU
-// @homepage       http://tangxiadi.cn
+// @namespace      http://userscripts.org/users/NLF
+// @homepage       https://github.com/ywzhaiqi/userscript
+// homepage       http://userscripts.org/scripts/show/84970
 
 // @grant          GM_getValue
 // @grant          GM_setValue
@@ -15,7 +16,7 @@
 // @grant          GM_xmlhttpRequest
 // @grant          GM_getResourceText
 // @run-at         document-end
-// @resource       https://github.com/tangxiadi/searchEngineJumpSU/raw/master/searchEngineJump.user.js
+// @resource iconData.json https://raw.githubusercontent.com/ywzhaiqi/userscript/master/searchEngineJumpCE/src/res/iconData.json?version=1418126146000
 
 // @include        /^https?:\/\/(?:www|encrypted)\.google(?:stable)?\..{2,9}\/(?:webhp|search|#|$|\?)(?:.(?!tbm=))*$/
 // @include        /^https?:\/\/wen\.lu\//
@@ -41,7 +42,7 @@
 // @include        /^https?:\/\/www\.youtube\.com\/results/
 // @include        /^https?:\/\/www\.nicovideo\.jp\/search\//
 // @include        /^https?:\/\/v\.baidu\.com\/(v|#)/
-// @include        /^https?:\/\/video\.so\.com\//
+// @include        /^https?:\/\/video\.haosou\.com\//
 // @include        /^https?:\/\/v\.qq\.com\/search\.html\?/
 // @include        /^https?:\/\/.*\.bing\.com\/video/
 // @include        /^https?:\/\/so\.iqiyi\.com\/so\/q/
@@ -59,7 +60,7 @@
 // @include        /^https?:\/\/www\.xiami\.com\/search/
 // @include        /^https?:\/\/\w{2,10}\.google(?:\.\D{1,3}){1,2}\/search\?(.*tbs=sbi)|(.*tbm=isch)/
 // @include        /^https?:\/\/image\.baidu\.c(om|n)\/i/
-// @include        /^https?:\/\/\image\.so\.com\/i\?/
+// @include        /^https?:\/\/\image\.haosou\.com\/i\?/
 // @include        /^https?:\/\/.*\.bing\.com\/images\/search/
 // @include        /^https?:\/\/pic\.sogou\.com\/pic/
 // @include        /^https?:\/\/image\.youdao\.com\/search/
@@ -1222,7 +1223,7 @@ var rules = [
            where: 'beforeEnd'
         }
     },
-	{name: "btspread",
+    {name: "btspread",
 		url: /^https?:\/\/www\.btava\.com\/search\//,
 		enabled: true,
 		engineList: "download",
@@ -1237,7 +1238,7 @@ var rules = [
 		   target: 'css;.form-inline',
 		   where: 'afterEnd'
 		}
-	},
+    },
     {name: "torrentkitty",
         url: /^https?:\/\/(www\.)?torrentkitty\.(com|org)\/search\//,
         enabled: true,
