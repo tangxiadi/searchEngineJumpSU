@@ -1,0 +1,121 @@
+网页-Google
+    Google, https://www.google.com/search?q=%s&ie=utf-8
+    百度, https://www.baidu.com/s?wd=%s&ie=utf-8
+    雅虎搜索, https://search.yahoo.com/search?p=%s
+    必应, https://cn.bing.com/search?q=%s
+    Yahoo日本, http://search.yahoo.co.jp/search?p=%s
+    // 360搜索, http://www.so.com/s?ie=utf-8&q=%s
+    // 搜狗搜索, http://www.sogou.com/web?query=%s
+    // wen.lu, https://wen.lu/search?q=%s&hl=zh-CN&safe=off&ie=utf-8, www.google.com.hk
+    // awk.so, https://awk.so/#num=30&newwindow=1&q=%s&hl=zh-CN&safe=off&ie=utf-8, www.google.com.hk
+
+视频-Youtube
+    Youtube, https://www.youtube.com/results?search_query=%s
+    搜库, http://www.soku.com/v?keyword=%s
+    奇艺, http://so.iqiyi.com/so/q_%s
+    乐视, http://so.letv.com/s?wd=%s
+    搜狐, http://so.tv.sohu.com/mts?wd=%s
+    腾讯, http://v.qq.com/search.html?ms_key=%s
+    acfan, http://www.acfun.tv/search.aspx#query=%s
+    bilibili, http://www.bilibili.tv/search?keyword=%s
+    豆瓣电影, http://movie.douban.com/subject_search?search_text=%s&cat=1002, www.douban.com
+
+音乐-网易云音乐
+    酷我音乐, http://sou.kuwo.cn/ws/NSearch?key=%s
+    百度音乐, http://music.baidu.com/search?ie=utf-8&oe=utf-8&key=%s
+    虾米音乐, http://www.xiami.com/search?key=%s
+    网易云音乐, http://music.163.com/#/search/m/?s=%s
+    天天动听, http://www.dongting.com/#a=searchlist&q=%s
+    音悦Tai, http://so.yinyuetai.com/mv?keyword=%s
+    一听, http://so.1ting.com/all.do?q=%s
+    百度歌词, http://music.baidu.com/search/lrc?key=%s
+
+图片-花瓣网
+    Google图片, https://www.google.com/search?q=%s&safe=off&hl=zh-CN&tbm=isch
+    百度图片, http://image.baidu.com/search/index?tn=baiduimage&ie=utf-8&word=%s
+    360图片, http://image.haosou.com/i?q=%s
+    花瓣网, http://huaban.com/search/?q=%s
+    Pixiv, http://www.pixiv.net/search.php?word=%s
+    PicSearch, http://cn.picsearch.com/index.cgi?q=%s
+    deviantART, http://www.deviantart.com/?q=%s, ASCII
+    EasyIcon, http://www.easyicon.net/iconsearch/%s/
+
+知识-知乎
+    百度百科, http://baike.baidu.com/search/word?pic=1&sug=1&word=%s
+    维基百科, https://zh.wikipedia.org/w/index.php?title=Special%3A搜索&profile=default&fulltext=Search&search=%s
+    Wikipedia, https://en.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&fulltext=Search&search=%s
+    互动百科, http://so.baike.com/s/doc/%s
+    谷歌学术, https://scholar.google.com/scholar?q=%s
+    知乎, http://www.zhihu.com/search?q=%s
+    百度文库, http://wenku.baidu.com/search?word=%s&ie=utf-8
+    豆丁文档, http://www.docin.com/search.do?searchcat=2&searchType_banner=p&nkey=%s
+    百度知道, http://zhidao.baidu.com/search?word=%s
+
+社交-Facebook
+    新浪微博, http://s.weibo.com/weibo/%s
+    腾讯微博, http://search.t.qq.com/index.php?k=%s
+    豆瓣, http://www.douban.com/search?source=suggest&q=%s
+    百度贴吧, http://tieba.baidu.com/f?kw=%s&ie=utf-8
+    Twitter, https://twitter.com/search/%s
+    Facebook, https://www.facebook.com/search/results.php?q=%s
+    Google+, https://plus.google.com/s/%s
+
+购物-淘宝
+    淘宝, http://s.taobao.com/search?q=%s
+    天猫, http://list.tmall.com/search_product.htm?q=%s&type=p, gbk
+    京东, http://search.jd.com/Search?keyword=%s&enc=utf-8
+    苏宁, http://search.suning.com/%s/
+    当当, http://search.dangdang.com/search.php?key=%s, gbk
+    亚马逊, http://www.amazon.cn/s/ref=nb_sb_noss?field-keywords=%s
+    易迅, http://searchex.yixun.com/html?charset=utf-8&as=1&key=%s
+    一淘, http://s.etao.com/search?q=%s
+    // 惠惠, http://www.huihui.cn/search?q=%s
+
+下载
+    BtSpread, http://www.bt2mag.com/search/%s
+    下载搜索, https://www.google.com/cse?q=%s&newwindow=1&cx=006100883259189159113%3Atwgohm0sz8q, https://raw.githubusercontent.com/tangxiadi/tangxiadi.github.io/master/images/download.png
+    BTDigg, https://btdigg.org/search?q=%s
+    BTKU, http://btku.org/q/%s/
+    bthand, http://www.bthand.com/search/%s
+    //TorrentKitty, http://www.torrentkitty.org/search/%s
+    新浪微盘, http://vdisk.weibo.com/search/?type=public&keyword=%s
+    谷歌百度盘, https://www.google.com/#newwindow=1&q=site:pan.baidu.com+%s, www.baidu.com
+    谷歌城通盘, https://www.google.com/#newwindow=1&q=site:www.ctfile.com+%s, www.ctfile.com
+    //我的百度盘, https://pan.baidu.com/disk/home?adapt=pc#dir/key=%s, so.baiduyun.me
+    //CiLiBaBa, http://www.cilibaba.com/search/%s/
+    //MAG磁力链接, http://cili006.com/?topic_title3=%s
+    //动漫花园, https://share.dmhy.org/topics/list?keyword=%s
+    // simpledCD, http://simplecd.me/search/entry/?query=%s
+    // 射手字幕, http://www.shooter.cn/search/%s
+
+书籍-豆瓣读书
+    豆瓣读书, http://book.douban.com/subject_search?search_text=%s&cat=1001, www.douban.com
+    多看, http://www.duokan.com/search/%s/1
+    当当, http://search.dangdang.com/search.php?key=%s, gbk
+    亚马逊（中）, http://www.amazon.cn/s/ref=nb_sb_noss?field-keywords=%s
+    亚马逊（英）, http://www.amazon.com/s/ref=nb_sb_noss?field-keywords=%s, www.amazon.cn
+    Google 书籍, http://books.google.com/books?q=%s, www.google.com
+    RM Down, http://www.rmdown.com/link.php?hash=%s
+    Magent2Torrent, http://torcache.net/torrent/%s.torrent
+
+翻译-爱词霸
+    Google翻译, https://translate.google.com/?q=%s
+    沪江日语, http://dict.hjenglish.com/jp/jc/%s
+    有道词典, http://dict.youdao.com/search?q=%s
+    爱词霸, http://www.iciba.com/%s
+    海词, http://dict.cn/%s
+    汉典, http://www.zdic.net/search/?q=%s
+    百度翻译, http://fanyi.baidu.com/#auto/zh/%s
+    日语罗马音, http://www.romajidesu.com/translator/%s
+
+成人-javlibrary
+    javlibrary, http://www.javlibrary.com/cn/vl_searchbyid.php?keyword=%s
+    javbus, http://www.javbus.com/search/%s
+    avmoo, http://www.javmoo.xyz/cn/search/%s
+    avsox, http://www.avless.com/cn/search/%s
+    avmemo, http://www.avmemo.com/cn/search/%s
+    liberdmm, http://www.libredmm.com/search?utf8=%E2%9C%93&q=%s&commit=Search
+    // ipanbox, https://www.google.com/#newwindow=1&q=site:ipanbox.com+%s, download.com
+    PronMD, http://www.pornmd.com/straight/%s
+    pornhub, http://www.pornhub.com/video/search?search=%s
+    DMM,R18, http://www.dmm.co.jp/search/=/searchstr=%s
