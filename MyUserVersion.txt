@@ -3,11 +3,11 @@
     百度, https://www.baidu.com/s?wd=%s&ie=utf-8
     雅虎搜索, https://search.yahoo.com/search?p=%s
     必应, https://cn.bing.com/search?q=%s
-    Yahoo日本, http://search.yahoo.co.jp/search?p=%s
+    DuckDuckGo, https://duckduckgo.com/?q=%s
+    // Yandex, https://www.yandex.com/search/?text=%s
+    Yahoo日本, http://search.yahoo.co.jp/search?p=%s&ei=UTF-8
     // 360搜索, http://www.so.com/s?ie=utf-8&q=%s
     // 搜狗搜索, http://www.sogou.com/web?query=%s
-    // wen.lu, https://wen.lu/search?q=%s&hl=zh-CN&safe=off&ie=utf-8, www.google.com.hk
-    // awk.so, https://awk.so/#num=30&newwindow=1&q=%s&hl=zh-CN&safe=off&ie=utf-8, www.google.com.hk
 
 视频-Youtube
     Youtube, https://www.youtube.com/results?search_query=%s
@@ -72,8 +72,8 @@
     // 惠惠, http://www.huihui.cn/search?q=%s
 
 下载
-    BtSpread, http://www.bt2mag.com/search/%s
     下载搜索, https://www.google.com/cse?q=%s&newwindow=1&cx=006100883259189159113%3Atwgohm0sz8q, https://raw.githubusercontent.com/tangxiadi/tangxiadi.github.io/master/images/download.png
+    BtSpread, http://www.btio.pw/search/%s
     BTDigg, https://btdigg.org/search?q=%s
     BTKU, http://btku.org/q/%s/
     bthand, http://www.bthand.com/search/%s
@@ -81,6 +81,7 @@
     新浪微盘, http://vdisk.weibo.com/search/?type=public&keyword=%s
     谷歌百度盘, https://www.google.com/#newwindow=1&q=site:pan.baidu.com+%s, www.baidu.com
     谷歌城通盘, https://www.google.com/#newwindow=1&q=site:www.ctfile.com+%s, www.ctfile.com
+    Chrome扩展, https://chrome.google.com/webstore/search/%s
     //我的百度盘, https://pan.baidu.com/disk/home?adapt=pc#dir/key=%s, so.baiduyun.me
     //CiLiBaBa, http://www.cilibaba.com/search/%s/
     //MAG磁力链接, http://cili006.com/?topic_title3=%s
@@ -101,17 +102,17 @@
 翻译-爱词霸
     Google翻译, https://translate.google.com/?q=%s
     沪江日语, http://dict.hjenglish.com/jp/jc/%s
+    百度翻译, http://fanyi.baidu.com/#auto/cht/%s
     有道词典, http://dict.youdao.com/search?q=%s
     爱词霸, http://www.iciba.com/%s
     海词, http://dict.cn/%s
     汉典, http://www.zdic.net/search/?q=%s
-    百度翻译, http://fanyi.baidu.com/#auto/zh/%s
     日语罗马音, http://www.romajidesu.com/translator/%s
 
 成人-javlibrary
     javlibrary, http://www.javlibrary.com/cn/vl_searchbyid.php?keyword=%s
     javbus, http://www.javbus.com/search/%s
-    avmoo, http://www.javmoo.xyz/cn/search/%s
+    avmoo, http://www.avmo.pw/cn/search/%s
     avsox, http://www.avless.com/cn/search/%s
     avmemo, http://www.avmemo.com/cn/search/%s
     liberdmm, http://www.libredmm.com/search?utf8=%E2%9C%93&q=%s&commit=Search
