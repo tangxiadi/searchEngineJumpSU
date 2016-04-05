@@ -113,8 +113,8 @@
     javlibrary, http://www.javlibrary.com/cn/vl_searchbyid.php?keyword=%s
     javbus, http://www.javbus.com/search/%s
     avmoo, http://www.avmo.pw/cn/search/%s
-    avsox, http://www.avless.com/cn/search/%s
-    avmemo, http://www.avmemo.com/cn/search/%s
+    avsox, http://www.avso.pw/cn/search/%s
+    avmemo, http://www.avxo.pw/cn/search/%s
     liberdmm, http://www.libredmm.com/search?utf8=%E2%9C%93&q=%s&commit=Search
     // ipanbox, https://www.google.com/#newwindow=1&q=site:ipanbox.com+%s, download.com
     PronMD, http://www.pornmd.com/straight/%s
