@@ -73,7 +73,7 @@
 
 下载
     下载搜索, https://www.google.com/cse?q=%s&newwindow=1&cx=006100883259189159113%3Atwgohm0sz8q, https://raw.githubusercontent.com/tangxiadi/tangxiadi.github.io/master/images/download.png
-    BtSpread, http://www.btio.pw/search/%s
+    BtSpread, https://btso.pw/search/%s
     BTDigg, https://btdigg.org/search?q=%s
     BTKU, http://btku.org/q/%s/
     bthand, http://www.bthand.com/search/%s
@@ -112,9 +112,9 @@
 成人-javlibrary
     javlibrary, http://www.javlibrary.com/cn/vl_searchbyid.php?keyword=%s
     javbus, http://www.javbus.com/search/%s
-    avmoo, http://www.avmo.pw/cn/search/%s
-    avsox, http://www.avso.pw/cn/search/%s
-    avmemo, http://www.avxo.pw/cn/search/%s
+    avmo, http://avmo.pw/cn/search/%s
+    avso, http://avso.pw/cn/search/%s
+    avxo, http://avxo.pw/cn/search/%s
     liberdmm, http://www.libredmm.com/search?utf8=%E2%9C%93&q=%s&commit=Search
     // ipanbox, https://www.google.com/#newwindow=1&q=site:ipanbox.com+%s, download.com
     PronMD, http://www.pornmd.com/straight/%s
