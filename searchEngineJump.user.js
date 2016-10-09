@@ -4,7 +4,7 @@
 // @description    方便的在各个引擎之间跳转。可自定义搜索列表的 NLF 修改版。
 // @author         NLF && ywzhaiqi && Rudy
 // @contributor    ted423
-// @version        5.4.0.25
+// @version        5.5.0.5
 // @namespace      http://userscripts.org/users/NLF
 // @homepage       https://github.com/tangxiadi/searchEngineJumpSU
 // homepage        https://greasyfork.org/zh-CN/scripts/10628
