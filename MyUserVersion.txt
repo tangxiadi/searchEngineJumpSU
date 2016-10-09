@@ -76,7 +76,7 @@
     BtSpread, https://btso.pw/search/%s
     BTDigg, https://btdigg.org/search?q=%s
     BTKU, http://btku.org/q/%s/
-    bthand, http://www.bthand.com/search/%s
+    //bthand, http://www.bthand.com/search/%s
     //TorrentKitty, http://www.torrentkitty.org/search/%s
     新浪微盘, http://vdisk.weibo.com/search/?type=public&keyword=%s
     谷歌百度盘, https://www.google.com/#newwindow=1&q=site:pan.baidu.com+%s, www.baidu.com
