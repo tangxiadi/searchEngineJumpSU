@@ -72,12 +72,12 @@
     // 惠惠, http://www.huihui.cn/search?q=%s
 
 下载
-    下载搜索, https://www.google.com/cse?q=%s&newwindow=1&cx=006100883259189159113%3Atwgohm0sz8q, https://raw.githubusercontent.com/tangxiadi/tangxiadi.github.io/master/images/download.png
     BtSpread, https://btso.pw/search/%s
-    BTDigg, https://btdigg.org/search?q=%s
+    下载搜索, https://www.google.com/cse?q=%s&newwindow=1&cx=006100883259189159113%3Atwgohm0sz8q, https://raw.githubusercontent.com/tangxiadi/tangxiadi.github.io/master/images/download.png
+    TorrentKitty, http://www.torrentkitty.tv/search/%s
     BTKU, http://btku.org/q/%s/
+    BTDigg, https://btdigg.org/search?q=%s
     //bthand, http://www.bthand.com/search/%s
-    //TorrentKitty, http://www.torrentkitty.org/search/%s
     新浪微盘, http://vdisk.weibo.com/search/?type=public&keyword=%s
     谷歌百度盘, https://www.google.com/#newwindow=1&q=site:pan.baidu.com+%s, www.baidu.com
     谷歌城通盘, https://www.google.com/#newwindow=1&q=site:www.ctfile.com+%s, www.ctfile.com
