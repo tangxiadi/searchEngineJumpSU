@@ -63,6 +63,7 @@
 购物-淘宝
     淘宝, http://s.taobao.com/search?q=%s
     天猫, http://list.tmall.com/search_product.htm?q=%s&type=p, gbk
+    阿里巴巴, https://s.1688.com/selloffer/offer_search.htm?keywords=%s
     京东, http://search.jd.com/Search?keyword=%s&enc=utf-8
     苏宁, http://search.suning.com/%s/
     当当, http://search.dangdang.com/search.php?key=%s, gbk
