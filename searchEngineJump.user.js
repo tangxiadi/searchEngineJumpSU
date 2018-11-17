@@ -294,7 +294,7 @@ var rules = [
            // 'afterEnd'(插入到给定元素的后面);.
         insertIntoDoc: {
                /*keyword: function () {
-               var input = document.getElementById('lst-ib');
+               var str = document.querySelector('input[title]').value;
                if (input) return input.value;
            }, */
            //keyword: '//input[@name="q"]',
