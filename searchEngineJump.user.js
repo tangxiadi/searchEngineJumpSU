@@ -294,12 +294,12 @@ var rules = [
            // 'afterEnd'(插入到给定元素的后面);.
         insertIntoDoc: {
                /*keyword: function () {
-               var str = document.querySelector('input[title]').value;
+               var input = document.getElementById('lst-ib');
                if (input) return input.value;
            }, */
            //keyword: '//input[@name="q"]',
            keyword: function() {
-               var str = document.getElementById('lst-ib').value;
+               var str = document.querySelector('input[title]').value;
                //document.write(str+"</br>");
 	           var isma=str.match(/^\s*site\:\S+\s+.*$/);
 	           //document.write(isma+"</br>");
