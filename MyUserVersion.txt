@@ -1,13 +1,15 @@
 网页-Google
     Google, https://www.google.com/search?q=%s&ie=utf-8
     百度, https://www.baidu.com/s?wd=%s&ie=utf-8
-    雅虎搜索, https://search.yahoo.com/search?p=%s
+    搜狗, https://www.sogou.com/web?query=%s&ie=utf8
+    360, https://www.so.com/s?q=%s&ie=utf-8
     必应, https://cn.bing.com/search?q=%s
     DuckDuckGo, https://duckduckgo.com/?q=%s
-    // Yandex, https://www.yandex.com/search/?text=%s
+    雅虎搜索, https://search.yahoo.com/search?p=%s
     Yahoo日本, http://search.yahoo.co.jp/search?p=%s&ei=UTF-8
-    // 360搜索, http://www.so.com/s?ie=utf-8&q=%s
-    // 搜狗搜索, http://www.sogou.com/web?query=%s
+    // Yandex, https://www.yandex.com/search/?text=%s
+    // wen.lu, https://wen.lu/search?q=%s&hl=zh-CN&safe=off&ie=utf-8, www.google.com.hk
+    // awk.so, https://awk.so/#num=30&newwindow=1&q=%s&hl=zh-CN&safe=off&ie=utf-8, www.google.com.hk
 
 视频-Youtube
     Youtube, https://www.youtube.com/results?search_query=%s
@@ -15,9 +17,9 @@
     奇艺, http://so.iqiyi.com/so/q_%s
     乐视, http://so.letv.com/s?wd=%s
     搜狐, http://so.tv.sohu.com/mts?wd=%s
-    腾讯, http://v.qq.com/search.html?ms_key=%s
-    acfan, http://www.acfun.tv/search.aspx#query=%s
-    bilibili, http://www.bilibili.tv/search?keyword=%s
+    腾讯, https://v.qq.com/x/search/?q=%s
+    acfan, https://www.acfun.cn/search?keyword=%s
+    bilibili, http://www.bilibili.com/search?keyword=%s
     豆瓣电影, http://movie.douban.com/subject_search?search_text=%s&cat=1002, www.douban.com
 
 音乐-网易云音乐
@@ -63,7 +65,6 @@
 购物-淘宝
     淘宝, http://s.taobao.com/search?q=%s
     天猫, http://list.tmall.com/search_product.htm?q=%s&type=p, gbk
-    阿里巴巴, https://s.1688.com/selloffer/offer_search.htm?keywords=%s
     京东, http://search.jd.com/Search?keyword=%s&enc=utf-8
     苏宁, http://search.suning.com/%s/
     当当, http://search.dangdang.com/search.php?key=%s, gbk
@@ -73,12 +74,13 @@
     // 惠惠, http://www.huihui.cn/search?q=%s
 
 下载
-    BtSpread, https://btso.pw/search/%s
-    下载搜索, https://www.google.com/cse?q=%s&newwindow=1&cx=006100883259189159113%3Atwgohm0sz8q, https://raw.githubusercontent.com/tangxiadi/tangxiadi.github.io/master/images/download.png
-    TorrentKitty, http://www.torrentkitty.tv/search/%s
-    BTKU, http://btku.org/q/%s/
+    下载搜索, https://www.google.com/cse?q=%s&newwindow=1&cx=006100883259189159113%3Atwgohm0sz8q, data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVQ4T2NkoBAw4tIvMPm2AyMzQz1I/v9fhsYPuaoHsKkdNYCBAW8YMDEz7AcF3L+/DI5kBSJZBohMu+33j4FhI9bo/f8v4l22+kpkOaxeEJx+K53xP+MMZIX/GRjL3mepdKMbjDMMhKbeamJgZKwFJ6T/DFPeZ6vmkpSQQIqFpt6a+5+RkfV9lmocrhSL0wXEZhG4AYLTboOjjFjwPkvVEaSWegYQazO6OgCtxFQRPdcWwQAAAABJRU5ErkJggg==
+    Torrents, https://torrents.me/s/%s
+    BtSpread, https://btio.pw/search/%s
     BTDigg, https://btdigg.org/search?q=%s
-    //bthand, http://www.bthand.com/search/%s
+    BTKU, http://btku.org/q/%s/
+    bthand, http://www.bthand.com/search/%s
+    //TorrentKitty, http://www.torrentkitty.org/search/%s
     新浪微盘, http://vdisk.weibo.com/search/?type=public&keyword=%s
     谷歌百度盘, https://www.google.com/#newwindow=1&q=site:pan.baidu.com+%s, www.baidu.com
     谷歌城通盘, https://www.google.com/#newwindow=1&q=site:www.ctfile.com+%s, www.ctfile.com
@@ -113,11 +115,11 @@
 成人-javlibrary
     javlibrary, http://www.javlibrary.com/cn/vl_searchbyid.php?keyword=%s
     javbus, http://www.javbus.com/search/%s
-    avmo, http://avmo.pw/cn/search/%s
-    avso, http://avso.pw/cn/search/%s
-    avxo, http://avxo.pw/cn/search/%s
+    avmoo, https://avmoo.com/cn/search/%s
+    avsox, https://avsox.com/cn/search/%s
+    avmemo, https://avmemo.com/cn/search/%s
     liberdmm, http://www.libredmm.com/search?utf8=%E2%9C%93&q=%s&commit=Search
-    // ipanbox, https://www.google.com/#newwindow=1&q=site:ipanbox.com+%s, download.com
+     ipanbox, https://www.google.com/#newwindow=1&q=site:ipanbox.com+%s, download.com
     PronMD, http://www.pornmd.com/straight/%s
     pornhub, http://www.pornhub.com/video/search?search=%s
     DMM,R18, http://www.dmm.co.jp/search/=/searchstr=%s
