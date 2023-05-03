@@ -12,5 +12,5 @@ searchEngineJump 简化修复版，基于“[searchEngineJump 简化改进版](h
 ## 安装
 
 - [Github Raw](https://github.com/tangxiadi/searchEngineJumpSU/raw/master/searchEngineJump.user.js)
-- [GreasyFork](https://greasyfork.org/scripts/15678-searchenginejump-%E7%AE%80%E5%8C%96%E4%BF%AE%E5%A4%8D%E7%89%88/code/searchEngineJump%20%E7%AE%80%E5%8C%96%E4%BF%AE%E5%A4%8D%E7%89%88.user.js)
+- [GreasyFork](https://greasyfork.org/scripts/10628-searchenginejump-%E7%AE%80%E5%8C%96%E4%BF%AE%E5%A4%8D%E7%89%88/code/searchEngineJump%20%E7%AE%80%E5%8C%96%E4%BF%AE%E5%A4%8D%E7%89%88.user.js)
 - [OpenUserJS](https://openuserjs.org/install/rudy/searchEngineJump_%E7%AE%80%E5%8C%96%E4%BF%AE%E5%A4%8D%E7%89%88.user.js)
